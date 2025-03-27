@@ -12,7 +12,7 @@
     "react-router-dom": "^6.22.1",
     "tailwindcss": "^3.4.1",
     "axios": "^1.5.0",
-    "jsPDF": "^2.5.1",
+    "jspdf": "^2.5.1",
     "xlsx": "^0.18.5",
     "react-google-login": "^5.2.2",
     "@azure/msal-browser": "^2.37.0",
